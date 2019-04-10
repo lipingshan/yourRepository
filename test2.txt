@@ -1,2 +1,0 @@
-hello mytest2
-append test2 message2
